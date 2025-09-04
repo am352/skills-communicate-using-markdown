@@ -12,3 +12,5 @@ javascript
 var = myVar = "Hello, world!";
 
 ```
+- [x] Edit index.md
+- [ ] Commit changes...
